@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf631c3b-6fa0-45f3-908f-296a05dbb5b0" name="ds_pro2" url="http://128.2.220.18">
+        <fileTransfer host="128.2.220.18" port="22" rootFolder="/afs/.andrew.cmu.edu/usr3/ll2/private/15440-p2/sample" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
